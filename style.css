@@ -1,0 +1,50 @@
+body{
+font-family: 'Times New Roman', Times, serif, "游ゴシック体";
+}
+
+article, aside{
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1{
+
+  display: block;
+  font-family: "游ゴシック体";
+  text-align: center;
+  color: #ff0000;
+  border-bottom: dotted 8px blue;
+  margin-bottom: 50px;
+}
+
+.twitter {
+font-size: 1.5em;
+color: rgba(128, 128, 128, 0.682);
+}
+
+.r1, .r2{
+  font-family:"游ゴシック体";
+  letter-spacing:0.1em;
+}
+
+h3{
+  font-weight: bold;
+  font-family:"游ゴシック体";
+  margin-bottom: 30px;
+}
+
+.contact{
+  border: solid 5px green;
+  font-family:"游ゴシック体";
+  line-height:2em;
+  font-weight: bold;
+}
+
+.mail{
+  color:rgb(2, 209, 88);
+}
+
+.HP{
+color:purple;
+}
