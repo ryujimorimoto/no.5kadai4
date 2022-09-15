@@ -1,4 +1,4 @@
-body{
+html, body{
 font-family: 'Times New Roman', Times, serif, "游ゴシック体";
 }
 
@@ -9,7 +9,6 @@ article, aside{
 }
 
 h1{
-
   display: block;
   font-family: "游ゴシック体";
   text-align: center;
